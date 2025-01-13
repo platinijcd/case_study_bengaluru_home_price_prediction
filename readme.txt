@@ -1,3 +1,6 @@
+-------------
+ENGLISH
+-------------
 Project Overview
 
 Bengaluru House Price Prediction
@@ -22,6 +25,41 @@ Model Building: Construct various predictive models and select the best-performi
 Model Evaluation: Evaluate the model using appropriate metrics and validate its performance.
 
 - Tools and Libraries
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Seaborn
+
+
+-------------
+FRANCAIS
+-------------
+
+Aperçu du Projet
+
+Prédiction des Prix des Maisons à Bengaluru
+Ce projet vise à prédire les prix des maisons à Bengaluru en utilisant diverses caractéristiques des maisons telles que le nombre de pièces et la superficie. Le jeu de données utilisé pour cette analyse provient de Kaggle et contient des informations détaillées sur les prix des maisons à Bengaluru.
+
+- Objectifs
+Analyse Exploratoire des Données (EDA) : Comprendre le jeu de données et identifier les caractéristiques clés qui influencent les prix des maisons.
+Sélection des Caractéristiques : Sélectionner les caractéristiques les plus pertinentes pour construire le modèle prédictif.
+Construction du Modèle : Développer un modèle prédictif en utilisant les caractéristiques sélectionnées.
+Évaluation du Modèle : Évaluer la performance du modèle prédictif.
+
+- Jeu de Données
+Le jeu de données utilisé dans ce projet peut être trouvé au lien suivant :
+https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
+
+- Étapes
+Chargement des Données : Charger le jeu de données et effectuer un nettoyage initial des données.
+Analyse Exploratoire des Données : Analyser le jeu de données pour comprendre la distribution et les relations entre les caractéristiques.
+Ingénierie des Caractéristiques : Créer de nouvelles caractéristiques et sélectionner les plus importantes pour le modèle.
+Construction du Modèle : Construire divers modèles prédictifs et sélectionner le plus performant.
+Évaluation du Modèle : Évaluer le modèle en utilisant des métriques appropriées et valider sa performance.
+
+- Outils et Bibliothèques
 Python
 Pandas
 NumPy
